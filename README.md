@@ -8,6 +8,10 @@ Welcome to my GitHub profile! I'm a recent graduate with a passion for coding an
 
 ## 🚀 Projects
 
+### Preppin'   ( https://www.preppin.xyz/ )
+- Explore 125+ self-solved LeetCode solutions, grasp 25+ essential algorithms, and master fundamental data structures.
+- Technologies: React, Node.js, MongoDB, AWS
+
 ### Portfolio Website
 - Developed and designed a personal portfolio website showcasing projects, skills, and achievements.
 - Technologies: JavaScript, React, HTML, CSS
