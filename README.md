@@ -8,9 +8,13 @@ Welcome to my GitHub profile! I'm a recent graduate with a passion for coding an
 
 ## 🚀 Projects
 
+### DoctorAi   ( https://www.doctor-ai.xyz/ )
+- Whether you're seeking a second opinion from a virtual doctor or looking to consult with a medical professional, our tool connects you with expert AI-driven healthcare guidance.
+- Technologies: React, Node.js, AWS, (Powered by GPT-3.5)
+
 ### Preppin'   ( https://www.preppin.xyz/ )
 - Explore 125+ self-solved LeetCode solutions, grasp 25+ essential algorithms, and master fundamental data structures.
-- Technologies: React, Node.js, MongoDB, AWS
+- Technologies: React, Node.js, MongoDB, AWS, (Execute code within the site)
 
 ### Portfolio Website
 - Developed and designed a personal portfolio website showcasing projects, skills, and achievements.
